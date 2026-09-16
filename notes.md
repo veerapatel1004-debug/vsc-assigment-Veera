@@ -1,0 +1,4 @@
+- I learned how Git tracks changes in files.
+- I learned how to create branches for separate features.
+- I learned how to stage, commit, and push changes to GitHub.
+- I learned how Pull Requests are used to merge changes into the main branch.
