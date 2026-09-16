@@ -1,0 +1,2 @@
+My name is Veera, and I am a Data Science student.
+I am learning Python, SQL, Power BI, and Git.
